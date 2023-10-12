@@ -321,10 +321,13 @@ Returns the list of all names of people who follows the user
     If the user requests a tweet other than the users he is following
 
   - **Response**
+
     - **Status code**
+
       ```
       401
       ```
+
     - **Body**
       ```
       Invalid Request
